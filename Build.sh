@@ -1,0 +1,1 @@
+g++ -std=c++11 Monster.cpp Main.cpp Gen1.cpp Type.cpp
